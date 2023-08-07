@@ -1,4 +1,4 @@
-### Fala DEVs, bem-vindo(a) ao meu perfil tibrasil !!!
+### Fala DEVs, bem-vindo(a) ao perfil tibrasil !!!
 
 <div>
   <a href="https://github.com/tibrasil">
