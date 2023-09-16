@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Vamos descobrir o poder da tecnologia!!!
+  ### Vamos juntos descobrir o poder da tecnologia!!!
  
 <div> 
   <a href="https://www.youtube.com/channel/UCCPHuMt0YvCAReo_A6vHVeA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
